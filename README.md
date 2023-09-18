@@ -12,13 +12,13 @@ This WebApp is a collaborative project developed by Jack Allen, Kieran Beharry, 
 ### Contributors
 (note to self -- add links to their githubs when they make accounts)
 * Jack Allen
-* Kieran Beharry
-* Andrew Erdei
-* Crina Gutu
+* [Kieran Beharry](https://github.com/kieranbeharry)
+* [Andrew Erdei](https://github.com/andrewerdei02)
+* [Crina Gutu](https://github.com/CrinaGgutu)
 
 ### Technology Used
-* VueJS - Used for web app's frontend
-* Python3 - Used for web app's backend
-* AWS - Used to securely host application
+* [VueJS](https://vuejs.org/) - Used for web app's frontend
+* [Python3](https://www.python.org/) - Used for web app's backend
+* [AWS](https://aws.amazon.com/) - Used to securely host application
 * GitHub / Git - Used for version control throughout the project
-* Trello - Used for workflow / task tracking
+* [Trello](https://trello.com/) - Used for workflow / task tracking
